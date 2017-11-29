@@ -4,4 +4,6 @@ This repository for my solutions in solving problems from HackerRank or any othe
 Here is list of my solutions with problem solving
 
 ### HackerRank problems solutions :
-+ [Cavity Map](https://github.com/MoustafaAttia/ProblemSolving/wiki/Cavity-Map---HackerRank-problem)
++ [Cavity Map](https://github.com/MoustafaAttia/ProblemSolving/wiki/Cavity-Map)
++ [Minimum Distances](https://github.com/MoustafaAttia/ProblemSolving/wiki/Minimum-Distances)
+
