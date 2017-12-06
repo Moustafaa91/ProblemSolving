@@ -6,4 +6,4 @@ Here is list of my solutions with problem solving
 ### HackerRank problems solutions :
 + [Cavity Map](https://github.com/MoustafaAttia/ProblemSolving/wiki/Cavity-Map)
 + [Minimum Distances](https://github.com/MoustafaAttia/ProblemSolving/wiki/Minimum-Distances)
-
++ [Journey to the Moon](https://github.com/MoustafaAttia/ProblemSolving/wiki/Journey-to-the-Moon) 
