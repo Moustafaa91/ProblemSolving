@@ -9,5 +9,8 @@ Here is list of my solutions with problem solving
 + [Journey to the Moon](https://github.com/MoustafaAttia/ProblemSolving/wiki/Journey-to-the-Moon) 
 + [Ice Cream Parlor](https://github.com/MoustafaAttia/ProblemSolving/wiki/Ice-Cream-Parlor) 
 + [Find the Difference](https://github.com/MoustafaAttia/ProblemSolving/wiki/Find-the-Difference) 
++ [Closest Numbers](https://github.com/MoustafaAttia/ProblemSolving/wiki/Closest-Numbers) 
+
+
 
 
