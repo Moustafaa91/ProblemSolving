@@ -1,8 +1,8 @@
 # ProblemSolving
-This repository for my solutions in solving problems in programming competitive platforms.
-I will not share any code for live contest, these problems are archived and for practicing only, and I refer for each problem to it's source.
-These solutions for learning purposes only, and am not resplosible for any cheating or copy/paste without understanding. 
-No solutions for live contest are provided here, all these solutions for practcing problems only.
+This repository for my solutions in solving problems in programming competitive platforms.  
+I will not share any code for live contest, these problems are archived and for practicing only, and I refer for each problem to it's source. 
+These solutions for learning purposes only, and am not responsible for any cheating or copy/paste without understanding.  
+No solutions for live contest are provided here, all these solutions for practcing problems only. 
 
 ### HackerRank problems solutions :
 + [Cavity Map](https://github.com/MoustafaAttia/ProblemSolving/wiki/Cavity-Map)
