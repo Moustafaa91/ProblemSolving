@@ -13,3 +13,6 @@ No solutions for live contest are provided here, all these solutions for practci
 
 ### LeetCode problems solutions :
 + [Find the Difference](https://github.com/MoustafaAttia/ProblemSolving/wiki/Find-the-Difference) 
+
+### Algorithms
++ [Longest Common Subsequence - space-optimized C++](https://github.com/MoustafaAttia/ProblemSolving/wiki/Longest-Common-Subsequence---space-optimized)
