@@ -10,6 +10,7 @@ No solutions for live contest are provided here, all these solutions for practci
 + [Journey to the Moon](https://github.com/MoustafaAttia/ProblemSolving/wiki/Journey-to-the-Moon) 
 + [Ice Cream Parlor](https://github.com/MoustafaAttia/ProblemSolving/wiki/Ice-Cream-Parlor) 
 + [Closest Numbers](https://github.com/MoustafaAttia/ProblemSolving/wiki/Closest-Numbers) 
++ [The Grid Search](https://github.com/MoustafaAttia/ProblemSolving/wiki/The-Grid-Search) 
 
 ### LeetCode problems solutions :
 + [Find the Difference](https://github.com/MoustafaAttia/ProblemSolving/wiki/Find-the-Difference) 
